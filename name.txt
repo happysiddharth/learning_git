@@ -1,7 +1,2 @@
-<<<<<<< HEAD
 Nrupul
-masai school
-=======
-Prateek
-Masai Schools
->>>>>>> ffaa6b89f9ca80e0c271a0fd56b01079e30c9c05
+
